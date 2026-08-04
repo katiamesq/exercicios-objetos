@@ -18,8 +18,8 @@ const endereco = {
     endereco : endereco
     }
     
-//usuario.nome = "Mary"
-//console.log ( usuario.nome ) 
+usuario.nome = "Mary"
+console.log ( usuario.nome ) 
 
 console.log ("Usuário :", usuario)
 
