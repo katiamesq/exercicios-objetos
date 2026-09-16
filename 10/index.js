@@ -108,3 +108,5 @@ roberto.carrinho.push({
     item: monitor,
     quantidade: 1
 })
+
+console.log(jose)
